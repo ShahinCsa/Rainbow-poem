@@ -3,4 +3,6 @@ The rainbow
 purpple
 green
 black 
+white
 blue
+pink
