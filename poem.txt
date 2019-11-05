@@ -1,4 +1,4 @@
-The rainbow 
+The rainbow  and the Unicorn
 
 purpple
 green
@@ -6,3 +6,4 @@ black
 white
 blue
 pink
+unicorn
